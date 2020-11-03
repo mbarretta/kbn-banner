@@ -1,8 +1,13 @@
 # persistedBanner
 
-A Kibana plugin
+A example of a plugin adding a persistant banner.
 
 ---
+
+## Configuration
+
+* **persistedBanner.text**: Text to display in the header and footer.
+* **persistedBanner.backgroundColor**: Background color of the banner.
 
 ## Development
 
