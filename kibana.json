@@ -1,6 +1,6 @@
 {
-  "id": "persistedBanner",
-  "configPath": ["persistedBanner"],
+  "id": "header-footer",
+  "configPath": ["header-footer"],
   "version": "1.0.0",
   "kibanaVersion": "kibana",
   "server": true,

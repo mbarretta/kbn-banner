@@ -3,7 +3,7 @@ import { PluginConfigDescriptor, PluginInitializerContext } from 'kibana/server'
 import { PersistedBannerPlugin } from './plugin';
 
 const configSchema = schema.object({
-  text: schema.string({ defaultValue: 'Configure with with persistedBanner.* configuration' }),
+  text: schema.string({ defaultValue: 'Configure with with header-footer.* configuration' }),
   backgroundColor: schema.string({ defaultValue: 'yellow' }),
 });
 

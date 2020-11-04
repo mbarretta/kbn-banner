@@ -1,13 +1,12 @@
-# persistedBanner
+# header-footer
 
-A example of a plugin adding a persistant banner.
-
+Adds a persistent header and footer banner with configurable text and background color
 ---
 
 ## Configuration
 
-* **persistedBanner.text**: Text to display in the header and footer.
-* **persistedBanner.backgroundColor**: Background color of the banner.
+* **header-footer.text**: Text to display in the header and footer.
+* **header-footer.backgroundColor**: Background color of the banner.
 
 ## Development
 

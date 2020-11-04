@@ -29,7 +29,8 @@ export class PersistedBannerPlugin
         content: "${text}";
         position: fixed;
         top: 0;
-        padding: 2px;
+        height: 24px
+        padding: 4px;
         z-index: 99999999;
         width: 100%;
         background-color: ${backgroundColor};
@@ -40,12 +41,19 @@ export class PersistedBannerPlugin
         content: "${text}";
         position: fixed;
         bottom: 0;
-        padding: 2px;
+        height: 24px
+        padding: 4px;
         z-index: 99999999;
         width: 100%;
         background-color: ${backgroundColor};
         text-align: center;
         font-weight: bold;
+      }
+      #kibana-body {
+          margin: 24px 0;
+      }
+      .euiHeader {
+          top: 24px !important;
       }
     `;
 
