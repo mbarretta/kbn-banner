@@ -29,7 +29,7 @@ export class PersistedBannerPlugin
         content: "${text}";
         position: fixed;
         top: 0;
-        height: 24px
+        height: 24px;
         padding: 4px;
         z-index: 99999999;
         width: 100%;
@@ -41,7 +41,7 @@ export class PersistedBannerPlugin
         content: "${text}";
         position: fixed;
         bottom: 0;
-        height: 24px
+        height: 24px;
         padding: 4px;
         z-index: 99999999;
         width: 100%;

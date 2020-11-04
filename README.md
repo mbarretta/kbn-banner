@@ -1,12 +1,12 @@
-# header-footer
+# headerFooter
 
 Adds a persistent header and footer banner with configurable text and background color
 ---
 
 ## Configuration
 
-* **header-footer.text**: Text to display in the header and footer.
-* **header-footer.backgroundColor**: Background color of the banner.
+* **header_footer.text**: Text to display in the header and footer.
+* **header_footer.backgroundColor**: Background color of the banner.
 
 ## Development
 

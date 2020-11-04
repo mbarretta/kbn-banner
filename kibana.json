@@ -1,8 +1,8 @@
 {
-  "id": "header-footer",
-  "configPath": ["header-footer"],
+  "id": "headerFooter",
+  "configPath": ["header_footer"],
   "version": "1.0.0",
-  "kibanaVersion": "kibana",
+  "kibanaVersion": "7.9.3",
   "server": true,
   "ui": true,
   "requiredPlugins": [],

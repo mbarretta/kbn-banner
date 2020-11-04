@@ -1,6 +1,6 @@
 {
-  "name": "header-footer",
-  "version": "0.0.0",
+  "name": "header_footer",
+  "version": "7.9.3",
   "private": true,
   "scripts": {
     "build": "yarn plugin-helpers build",
